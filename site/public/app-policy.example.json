@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "policy": {
+    "title": "Privacy and Terms Example",
+    "app": "Web Radio Conexao Jamaica",
+    "notes": [
+      "This example does not include private contact channels.",
+      "This example does not include production providers or retention rules.",
+      "Real policies should be reviewed before publishing an app."
+    ]
+  }
+}
